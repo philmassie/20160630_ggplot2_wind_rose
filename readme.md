@@ -1,9 +1,13 @@
 ---
 title: "Plot a wind rose in R"
 author: "Philip Massie"
+date: 2016-06-30
+draft: true
+tags: [ "R", "ggplot2", "wind rose", "visualisation" ]
 output: 
   html_document: 
     keep_md: yes
+    toc: no
 ---
 
 ## Introduction
